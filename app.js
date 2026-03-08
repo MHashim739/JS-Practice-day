@@ -43,6 +43,25 @@
 // var documentelement = 54321;
 // console.log(typeof documentelement);
 
+// var a;
+// a = 2;
+// a = 4;
+// alert (a);
+
+// var myName;
+// myName = "hello world!";
+// myName = "Daraz";
+// console.log(myName);
+
+// var myAlert;
+// myAlert = false;
+// myAlert = true;
+// console.log(myAlert);
+
+
+
+
+
 
 
 
