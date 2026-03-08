@@ -58,6 +58,48 @@
 // myAlert = true;
 // console.log(myAlert);
 
+// var a = 2+2;
+
+// var b = 2/4;
+
+// var c = 3*3;
+
+// var d = 6%3;
+
+// console.log(a);
+
+// console.log(b);
+
+// console.log(c);
+
+// console.log(d);
+
+// var e = 9**2;
+
+// var f = 8**2;
+
+// var g = 10**3;
+
+// console.log(e);
+
+// console.log(f);
+
+// console.log(g);
+
+
+// var num1 = 30-10;
+
+// var num2 = 20-10;
+
+// var num3 = 10-10;
+
+// console.log(num1);
+
+// console.log(num2);
+
+// console.log(num3);
+
+
 
 
 
