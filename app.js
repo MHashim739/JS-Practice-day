@@ -25,5 +25,27 @@
 // var boo = false;
 // alert (boo);
 
+// var thisIsAnApple = 4321;
+// alert (thisIsAnApple);
+
+// var this_is_an_apple = "M.Hashim";
+// alert (this_is_an_apple);
+
+// var thisisanapple = true;
+// console.log(thisisanapple);
+
+// var documentElement = true;
+// console.log(typeof documentElement);
+
+// var document_element = "Hi my friend";
+// console.log(typeof document_element);
+
+// var documentelement = 54321;
+// console.log(typeof documentelement);
+
+
+
+
+
 
 
