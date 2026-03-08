@@ -16,5 +16,14 @@
 // var boo = false;
 // console.log( boo);
 
+// var a = 4321;
+// alert (a);
+
+// var num = "Hello world !";
+// alert (num);
+
+// var boo = false;
+// alert (boo);
+
 
 
