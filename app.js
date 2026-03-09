@@ -109,11 +109,66 @@
 
 // post incripment practice
 
-var num = 2;
-num++ 
+// var num = 2;
+// console.log(num++);
+// console.log(num);
+// console.log(num++);
+// console.log(num);
+
+// var num1= 1;
+// var num2= 2;
+// console.log(num1++);
+// console.log(num2++);
+// console.log(num1);
+// console.log(num2);
+
+// var num = 5;
+// num++; 
+// num++;
+// num++;
+// console.log(num);
+// console.log(num++);
+// console.log(num);
 // console.log(num++);
 
-console.log(num);
+// var num1 = 1;
+// var num2 = num1++;
+// var num3 = num2++;
+// var num4 = num3++;
+// var num5 = num4++;
+// console.log(num1);
+// console.log(num2);
+// console.log(num3);
+// console.log(num4);
+
+// var a = 1;
+// console.log(++a);
+// console.log(++a);
+// console.log(a);
+
+// var b = 2;
+// console.log(++b);
+// console.log(b);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
