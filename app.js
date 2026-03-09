@@ -107,6 +107,15 @@
 
 // console.log(3%2);
 
+// post incripment practice
+
+var num = 2;
+num++ 
+// console.log(num++);
+
+console.log(num);
+
+
 
 
 
