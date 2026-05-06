@@ -150,7 +150,30 @@
 // console.log(++b);
 // console.log(b);
 
-
+function add(a,b){
+    return 
+    2+2
+}
+function div(a,b){
+    return 
+    2/2
+}
+function sub(a,b){
+    return 
+    2-2
+}
+function mul(a,b){
+    return 
+    2*2
+}
+var uInput1=+prompt("Enter First Number");
+var uInput2=+prompt("Enter First Number");
+var operator=+prompt("+ , / , - , * ");
+switch (operator){
+    case :
+    console.log(uInput1 + uInput2);
+    
+}
 
 
 
