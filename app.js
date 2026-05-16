@@ -170,8 +170,8 @@ var uInput1=+prompt("Enter First Number");
 var uInput2=+prompt("Enter First Number");
 var operator=+prompt("+ , / , - , * ");
 switch (operator){
-    case :
-    console.log(uInput1 + uInput2);
+    case add(2+2):
+    console.log(uInput1 , uInput2);
     
 }
 
