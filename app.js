@@ -150,48 +150,108 @@
 // console.log(++b);
 // console.log(b);
 
-function add(a,b){
-    return 
-    2+2
-}
-function div(a,b){
-    return 
-    2/2
-}
-function sub(a,b){
-    return 
-    2-2
-}
-function mul(a,b){
-    return 
-    2*2
-}
-var uInput1=+prompt("Enter First Number");
-var uInput2=+prompt("Enter First Number");
-var operator=+prompt("+ , / , - , * ");
-switch (operator){
-    case add(2+2):
-    console.log(uInput1 , uInput2);
+// function add(a,b){
+//     return 
+//     2+2
+// }
+// function div(a,b){
+//     return 
+//     2/2
+// }
+// function sub(a,b){
+//     return 
+//     2-2
+// }
+// function mul(a,b){
+//     return 
+//     2*2
+// }
+// var uInput1=+prompt("Enter First Number");
+// var uInput2=+prompt("Enter First Number");
+// var operator=+prompt("+ , / , - , * ");
+// switch (operator){
+//     case add(2+2):
+//     console.log(uInput1 , uInput2);
     
-}
+// }
+
+
+// var str=prompt("enter string");
+
+// for (var i=0; i<str.length; i++){
+//     console.log(str[i].toLocaleUpperCase());
+    
+// }
+
+
+
+// var a=prompt("enter string");
+// for(var i=0; i<a.length; i++){
+//     console.log(a[i].toLocaleLowerCase());
+    
+// }
+
+
+// 
+// var a="hashim";
+// console.log(a.length);
 
 
 
 
+// var b=prompt("enter any string");
+// console.log(b.length);
 
 
+// var c="Muhammad Hashim";
+// var d=c.slice(0,8);
+// var e=c.slice(9,17)
+// console.log(d);
+// console.log(e);
 
 
+// var a="I Love JS";
+// var b=a.indexOf("Love");
+// console.log(b);
+
+// var a="! hello world !";
+// var b=a.lastIndexOf("!");
+// console.log(b);
+// var a="pakistan";
+// console.log(a.indexOf("tan"));
 
 
+// var a="hashim";
+// console.log(a.charAt(3));
+// var a=prompt("enter any string");
+// console.log(a.charAt(0));
 
+// var a="javascript";
+// console.log(a.charAt(9));
 
+// var a="my life aim dudu";
+// console.log(a.replaceAll("dudu","developer mind set"));
 
+// var a=7.9;
+// console.log(Math.floor(a));
 
+// var a=9.4;
+// console.log(Math.floor(a));
 
+// var a=Math.floor(Math.random()*30)+1;
+// console.log(a);
 
+// console.log( Math.round(Math.random()* 5));
 
+// var a="23.32";
+// console.log(typeof(parseFloat(a)));
 
+// var a="30.23";
+// console.log(parseInt(a));
+// console.log(typeof(a));
+
+// var a=30.112342;
+// console.log(a.toFixed(2));
 
 
 
