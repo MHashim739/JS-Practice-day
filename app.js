@@ -279,17 +279,17 @@
 
  //boolean
 
- true & false;
+//  true & false;
 
-                                //varaiales in java Script
+//                                 //varaiales in java Script
 
-var a=typeof(30);//the data  type Number
+// var a=typeof(30);//the data  type Number
 
-var b=typeof("1234"); //the data type string
-var c=typeof("hello Worlds");  //& the data type in  String
+// var b=typeof("1234"); //the data type string
+// var c=typeof("hello Worlds");  //& the data type in  String
 
-var d=typeof(true);//the data type boolen
-var e=typeof(false);//& the data type in  boolean
+// var d=typeof(true);//the data type boolen
+// var e=typeof(false);//& the data type in  boolean
 
 // alert(a);
 // alert(b);
@@ -443,18 +443,186 @@ var e=typeof(false);//& the data type in  boolean
 // b[0]=[2];
 
 // console.log(a,b);
- var a={name:"sameer"}
- var b=a;
- b.name="yahaz"
- console.log(a);
- console.log(b);
+//  var a={name:"sameer"}
+//  var b=a;
+//  b.name="yahaz"
+//  console.log(a);
+//  console.log(b);
+//  let a=10;
+//  {
+//       let b=20;
+//       console.log(b);
+      
+//  }
+//  console.log(a);
+//  let n=10;
+// {
+//     let n=2; // Block-scoped variable
+//     console.log(n);
+// }
+// console.log(n);
+
+// // let a = 10;
+// // console.log(a);
+// let name="Hashim";
+// // console.log(name);
+
+// {
+//       let name="Muhammed";
+//       console.log(name);
+      
+// }
+// console.log(name);
+// let age_01=20;
+// let age_02=33;
+// console.log(age_02);
+
+// console.log(age_01);
+
+// a=22;
+// console.log(a);
+// var a;
+// console.log(a);
+// let a;
+// a=22;
+// console.log(a);
+// a=22;
+// console.log(a);
+// let a;
+// a=22;
+
+//  const name="Muhammed";
+//  console.log(name);
+//  name="Hashim";
+//  console.log(name);
+//  const =>name(a,b){
+      
+//  }
  
- 
+            // normal function
+// function obg(name,id){
+//       var saveData="Student Name " + name + "Student Id " + id;
+//       return(saveData)
+// }
+// var datUser=obg("Muhammed Ali",2020022);
+// console.log(datUser);
+            // arrow function
+// const name=(a,b)=>{
+//       var saveData01=+prompt("Enter any number");
+//       var saveData02=+prompt("Enter Any Number");
+//       var dataSave=saveData01+saveData02;
+//       var dataArragement=dataSave + parseFloat(a+b);
+//       return(saveData01,saveData02,dataArragement)
+
+// }
+// console.log(name(5,3));
+//             // destructuring in object
+// let obj={
+//       name:"Muhammed Ali",
+//       id:20222,
+//       class:"Web and App"
+// }
+// let saveObj01="'Student Name': "+ obj.name;
+// let saveObj02="'Student Id': " + obj.id;
+// let saveObj03="'Student Class:' " + obj.class;
+// console.log(saveObj01);
+// console.log(saveObj02);
+// console.log(saveObj03);
+// const obj={
+//       name:"Muhammed",
+//       id:20222,
+//       age:20,
+//       nameOfFather:"Rashid Ali"
+// }
+// let  {name,id,age,nameOfFather}=obj;
+// console.log("student_01:" + "Name: " + name);
+// console.log("student_01:" + "id: " + id);
+// console.log("student_01:" + "age: " + age);
+// console.log("student_01:" + "Father Name: " + nameOfFather);
+// const arr=[1,2,3,4];
+// const det_obj=([a,b,c,z])=>[
+//       console.log(a)
+      
+// ]
+// det_obj()
+
+// let a=[1,2,1,2];
+// let [a,b,c,z]=a;
+// console.log(a);
+
+// let obj=(name,id,cls) => {
+//       this.name=name;
+//       this.id=id;
+//       this.cls;
+//       return{
+//             name,
+//             id,
+//             cls
+//       }
+
+// }
+// let save=obj("Muhammed",20111,12 );
+// // console.log(save);
+// const obj={
+//       name:"Muhammed Hsahim",
+//       id:20111,
+//       age:12,
+//       cls:5,
+// }
+// const detObj={name,id,age,cls}=obj;
+// const saveObj_01=name;
+// const saveObj_02=id;
+// const saveObj_03=age;
+// const saveObj_04=cls;
+// console.log( saveObj_01);
+// console.log(saveObj_02);
+// console.log(saveObj_03);
+// console.log(saveObj_04);
+// let arr_01=[1,2,3,4,5,6]
+
+// let arr=([a,b,z,x,y,c]=arr_01)=>{
+//       for(let i=0; i<arr_01.length; i++){
+//             console.log(arr_01[i]);
+            
+//       }
+//       return 3 * 3;
+      
+      
+// }
+// console.log(arr());
+
+// const save=arr();
+// console.log(save);
+// const test=()=>{
+//       let arr_01=[1,2,3];
+// let arr_02=[4,5,6,7];
+// let detArr_01=[arr1,arr2,arr3]=arr_01;
+// for(let i=0; i<detArr_01.length; i++){
+//       console.log(detArr_01[i]);
+      
+// }
+// let detArr_02=[a,b,c,d]=arr_02;
+// for(let i=0; i<detArr_02.length; i++){
+//       console.log(detArr_02[i]);
+      
+// }
+// }
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+           
 
 
 
