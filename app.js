@@ -609,12 +609,554 @@
 // }
 
 
+// const obj={
+//       name:"Muhammed Ali",
+//       id:20121,
+//       address:"Karachi",
+//       Course:"Web And App"
+// }
+// let detObj={name,id,Course,address}=obj;
+// let saveDetObj=detObj;
+// console.log(saveDetObj);
+// console.log(name);
+// console.log(id);
+// console.log(Course);
+// console.log(address);
+// const detObj=()=>{
+//       {
+//             let obj={
+//                   name:"Muhammed",
+//                   id:212,
+//                   address:"Karachi",
+//                   hobbies:"coding" + "Write Programming" + "Daily Physic Control",
+//                   collification:"Matric"
+//             }
+//             let det_obj={name,id,hobbies,collification,address}=obj;
+//             let saveDetObj=det_obj;
+//             console.log(saveDetObj);
+            
+//       }
+// }
+// let userName=prompt("Enter Your Name");
+// let UserAge=parseInt(prompt("Enter Your Age"));
+// let ageArr_01=[18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50];
+// let ageArr_02=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
+// const defPar=(a,b,c)=>{
+//       switch(UserAge){
+//             case ageArr_01[0]:
+//                   let save_01="you allow Vote Selection";
+//                   console.log(save_01 + userName);
+            
+//              break;
+//              case ageArr_01[2]:
+//                   let save_1="you allow Vote Selection";
+//                   console.log(save_1 , userName);
+            
+//              break;
+//              case ageArr_01[3]:
+//                   let save_02="you allow Vote Selection";
+//                   console.log(save_02 , userName);
+            
+//              break;
+//              case ageArr_01[4]:
+//                   let save_03="you allow Vote Selection";
+//                   console.log(save_03 , userName);
+            
+//              break;
+//              case ageArr_01[5]:
+//                   let save_04="you allow Vote Selection";
+//                   console.log(save_04 , userName);
+            
+//              break;
+//              case ageArr_01[6]:
+//                   let save_4="you allow Vote Selection";
+//                   console.log(save_4 , userName);
+            
+//              break;
+//              case ageArr_01[7]:
+//                   let save_05="you allow Vote Selection";
+//                   console.log(save_05 , userName);
+            
+//              break;
+//             case ageArr_02[0]:
+//                   alert("You Not Allow Vote Selection");    
+
+//                   break;
+//             case ageArr_02[1]:
+//                   alert("You Not Allow Vote Selection");    
+
+//                   break;
+//             case ageArr_02[2]:
+//                   alert("You Not Allow Vote Selection");    
+
+//                   break;
+//             case ageArr_02[3]:
+//                   alert("You Not Allow Vote Selection");    
+
+//                   break;
+//             case ageArr_02[4]:
+//                   alert("You Not Allow Vote Selection");    
+
+//                   break;
+//             case ageArr_02[5]:
+//                   alert("You Not Allow Vote Selection");    
+
+//                   break;
+//                   case ageArr_02[6]:
+//                   alert("You Not Allow Vote Selection");    
+
+//                   break;
+//             case ageArr_02[7]:
+//                   alert("You Not Allow Vote Selection");    
+
+//                   break;                                    
+//             default:
+//                   console.log("not Axsisable");
+//             return{
+//                   save_01
+//             }
+//       }
+
+// }
+// let save_03=defPar();
+// console.log(userName);
+// console.log(UserAge);
+
+
+// console.log(save_03);
+// const restPara=(a=10,b=2,c=3)=>{
+//       let userName=prompt("Enter Your Name");
+//       // console.log(userName);
+      
+//       let userAge=+prompt("Enter Your Age")
+//       // console.log(userAge);
+      
+//       // let result="";
+//       if(userAge===18){
+//             alert(userName , "Vote selection Allow Because your Age is valid in vote" )
+//       }else if(userAge ===17){
+//             alert(userName , "not Allow vote selection because your age is invalid" );
+//       }
+//       // return{
+//       //        userName,
+//       //       userAge ,
+//       //       result, 
+            
+//       // }
+// }
+// console.log(restPara(2,3,4));
 
 
 
 
+// let userName=prompt("Enter Your Name");
+// console.log(userName);
+// let userAge=+prompt("Enter Your Age In Current Age");
+// console.log(userAge);
+// switch(userAge){
+//       case (1):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//       case(2):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(3):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(4):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(5):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(6):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(7):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(8):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(9):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(10):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(11):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(12):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(13):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(14):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(15):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(16):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(17):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2); 
+//             break
+//        case(18):
+//             var save1=alert("Your Age Is valid you Allow in vote");
+//             var save2=save1;
+//             save2="Your Age Is valid you Allow in vote"
+//             console.log(save2); 
+//             break 
+//        case(19):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(20):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(21):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(22):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(23):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(24):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(25):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//             break
+//        case(26):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+//        case(27):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+//        case(28):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+//        case(29):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+//        case(30):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+//        case(31):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+//        case(32):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
 
+//        case(33):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
 
+//        case(34):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+
+//        case(35):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+
+//        case(36):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+
+//        case(37):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//                         break
+
+//        case(38):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(39):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(40):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(41):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(42):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(43):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(44):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(45):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(46):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(47):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(48):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(49):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(50):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(51):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(52):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(53):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(54):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(55):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(56):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(57):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(58):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(59):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(60):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(61):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+//        case(62):
+//             var save1=alert("Your Age Is invalid you not condidata in vote");
+//             var save2=save1;
+//             save2="Your Age Is invalid you not condidata in vote"
+//             console.log(save2);
+                                                                           
+// }
+
+// const rest=(a=2,b=0,...c)=>{
+//      console.log(a-c-b);
+//      return{
+//           a,b,c
+//      }
+     
+// }
+// let save1=rest(1,2,6,2,3,4,5,6);
+// console.log(save1);
+
+// const gas=[20,40,60,80];
+// const food=[10,40,50];
+// const calculateTotal=(arr)=>{
+//      const total=0;
+//      for(let i=0; i<arr.length; i++){
+          
+//      }
+// }
+
+// console.log(a);
+// a=10;
+// var a=3;
+// a=20;
+// let a=3;
+// console.log(a);
+// a=4;
+// console.log(a);
+// const detArr=()=>{
+//      let a=[1,2,3,4];
+//      let b=[m,n,o,p]=a;
+//      let c=b;
+//      c=[o,m,n,p]=a;
+//      var d=console.log(o , m , n , p);
+//      var e= console.log(m,n,o,p );
+     
+     
+//      return{
+//           a,
+//           b,
+//           c,
+//           d,
+//           e
+//      }
+// }
+// console.log(detArr());
+
+const 
 
 
 
