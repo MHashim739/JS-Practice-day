@@ -1,0 +1,20 @@
+{
+  "name": "js-practice-day",
+  "version": "26.5.0",
+  "description": "",
+  "homepage": "https://github.com/MHashim739/JS-Practice-day#readme",
+  "bugs": {
+    "url": "https://github.com/MHashim739/JS-Practice-day/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHashim739/JS-Practice-day.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
