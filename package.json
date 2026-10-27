@@ -1,0 +1,27 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MHashim739/JS-Practice-day#readme",
+  "bugs": {
+    "url": "https://github.com/MHashim739/JS-Practice-day/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHashim739/JS-Practice-day.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
